@@ -1,3 +1,4 @@
+//Database Login Failed / Authentication Error
 import { Manifest } from "deno-slack-sdk/mod.ts";
 
 /**
