@@ -1,3 +1,4 @@
+//new training
 import { Manifest } from "deno-slack-sdk/mod.ts";
 
 /**
